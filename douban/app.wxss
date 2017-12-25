@@ -1,0 +1,11 @@
+/**app.wxss**/
+page{
+  width: 100%;
+  min-height: 100%;
+  background-color: #f9f9f9;
+  font-family: -apple-system-font, helvetica Neue,Microsoft YaHei, Arial, Helvetica, sans-serif;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+}
